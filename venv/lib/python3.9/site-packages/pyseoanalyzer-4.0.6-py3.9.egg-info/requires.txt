@@ -1,0 +1,6 @@
+BeautifulSoup4
+lxml
+requests
+jinja2
+urllib3
+certifi
